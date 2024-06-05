@@ -8,6 +8,7 @@
 
 .product-card {
     text-align: center;
+    transition: transform 0.3s ease;
 }
 
 .product-card img {
@@ -37,3 +38,6 @@
     background-color: #0056b3;
 }
   
+.product-card:hover {
+    transform: scale(1.05);
+  }
