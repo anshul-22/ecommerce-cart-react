@@ -1,0 +1,10 @@
+.checkout-summary {
+    width: 60%; 
+}
+
+.checkout-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
